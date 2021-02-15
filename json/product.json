@@ -1,7 +1,7 @@
     {
         "men": [
             {
-                "productImage": "/assets/hpMenThumb.png",
+                "productImage": "/mobikart/assets/hpMenThumb.png",
                 "prodNameInfo": {
                     "brand": "Adidas",
                     "productName": "Blue full arm Shirt Blue full arm Shirt Blue full arm Shirt"
@@ -14,7 +14,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpMenThumb.png",
+                "productImage": "/mobikart/assets/hpMenThumb.png",
                 "prodNameInfo": {
                     "brand": "Levis",
                     "productName": "Jeans pant blue"
@@ -27,7 +27,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpMenThumb.png",
+                "productImage": "/mobikart/assets/hpMenThumb.png",
                 "prodNameInfo": {
                     "brand": "Puma",
                     "productName": "Shoe white"
@@ -40,7 +40,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpMenThumb.png",
+                "productImage": "/mobikart/assets/hpMenThumb.png",
                 "prodNameInfo": {
                     "brand": "Reebok",
                     "productName": "Black Jacket"
@@ -53,7 +53,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpMenThumb.png",
+                "productImage": "/mobikart/assets/hpMenThumb.png",
                 "prodNameInfo": {
                     "brand": "HRX",
                     "productName": "T shirt gray"
@@ -68,7 +68,7 @@
         ],
         "women": [
             {
-                "productImage": "/assets/hpWomenThumb.png",
+                "productImage": "/mobikart/assets/hpWomenThumb.png",
                 "prodNameInfo": {
                     "brand": "Adidas",
                     "productName": "Saree"
@@ -81,7 +81,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpWomenThumb.png",
+                "productImage": "/mobikart/assets/hpWomenThumb.png",
                 "prodNameInfo": {
                     "brand": "Levis",
                     "productName": "Formal ware"
@@ -94,7 +94,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpWomenThumb.png",
+                "productImage": "/mobikart/assets/hpWomenThumb.png",
                 "prodNameInfo": {
                     "brand": "Puma",
                     "productName": "Blue Jeans"
@@ -107,7 +107,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpWomenThumb.png",
+                "productImage": "/mobikart/assets/hpWomenThumb.png",
                 "prodNameInfo": {
                     "brand": "Reebok",
                     "productName": "Track Pant"
@@ -120,7 +120,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpWomenThumb.png",
+                "productImage": "/mobikart/assets/hpWomenThumb.png",
                 "prodNameInfo": {
                     "brand": "HRX",
                     "productName": "T shirt gray"
@@ -135,7 +135,7 @@
         ],
         "kid": [
             {
-                "productImage": "/assets/hpKidsThumb.png",
+                "productImage": "/mobikart/assets/hpKidsThumb.png",
                 "prodNameInfo": {
                     "brand": "Adidas",
                     "productName": "Blue full arm Shirt Blue full arm Shirt Blue full arm Shirt"
@@ -148,7 +148,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpKidsThumb.png",
+                "productImage": "/mobikart/assets/hpKidsThumb.png",
                 "prodNameInfo": {
                     "brand": "Levis",
                     "productName": "Jeans pant blue"
@@ -161,7 +161,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpKidsThumb.png",
+                "productImage": "/mobikart/assets/hpKidsThumb.png",
                 "prodNameInfo": {
                     "brand": "Puma",
                     "productName": "Shoe white"
@@ -174,7 +174,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpKidsThumb.png",
+                "productImage": "/mobikart/assets/hpKidsThumb.png",
                 "prodNameInfo": {
                     "brand": "Reebok",
                     "productName": "Black Jacket"
@@ -187,7 +187,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpKidsThumb.png",
+                "productImage": "/mobikart/assets/hpKidsThumb.png",
                 "prodNameInfo": {
                     "brand": "HRX",
                     "productName": "T shirt gray"
@@ -202,7 +202,7 @@
         ],
         "electronics": [
             {
-                "productImage": "/assets/hpElectronicsThumb.png",
+                "productImage": "/mobikart/assets/hpElectronicsThumb.png",
                 "prodNameInfo": {
                     "brand": "Samsung",
                     "productName": "Galaxy 21s"
@@ -215,7 +215,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpElectronicsThumb.png",
+                "productImage": "/mobikart/assets/hpElectronicsThumb.png",
                 "prodNameInfo": {
                     "brand": "Dell",
                     "productName": "i5 Laptop"
@@ -228,7 +228,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpElectronicsThumb.png",
+                "productImage": "/mobikart/assets/hpElectronicsThumb.png",
                 "prodNameInfo": {
                     "brand": "Sony",
                     "productName": "Aplha 7c"
@@ -241,7 +241,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpElectronicsThumb.png",
+                "productImage": "/mobikart/assets/hpElectronicsThumb.png",
                 "prodNameInfo": {
                     "brand": "Philips",
                     "productName": "Trimmer"
@@ -254,7 +254,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpElectronicsThumb.png",
+                "productImage": "/mobikart/assets/hpElectronicsThumb.png",
                 "prodNameInfo": {
                     "brand": "LG",
                     "productName": "Monitor"
@@ -269,7 +269,7 @@
         ],
         "homeapp": [
             {
-                "productImage": "/assets/hpHomeThumb.png",
+                "productImage": "/mobikart/assets/hpHomeThumb.png",
                 "prodNameInfo": {
                     "brand": "Samsung",
                     "productName": "24L Refrigearator"
@@ -282,7 +282,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpHomeThumb.png",
+                "productImage": "/mobikart/assets/hpHomeThumb.png",
                 "prodNameInfo": {
                     "brand": "Sony",
                     "productName": "54' Television"
@@ -295,7 +295,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpHomeThumb.png",
+                "productImage": "/mobikart/assets/hpHomeThumb.png",
                 "prodNameInfo": {
                     "brand": "LG",
                     "productName": "10L Washing Machine"
@@ -308,7 +308,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpHomeThumb.png",
+                "productImage": "/mobikart/assets/hpHomeThumb.png",
                 "prodNameInfo": {
                     "brand": "Usha",
                     "productName": "Fan"
@@ -321,7 +321,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpHomeThumb.png",
+                "productImage": "/mobikart/assets/hpHomeThumb.png",
                 "prodNameInfo": {
                     "brand": "Blue star",
                     "productName": "Air Conditioner"
@@ -336,7 +336,7 @@
         ],
         "grocery": [
             {
-                "productImage": "/assets/hpGroceryThumb.png",
+                "productImage": "/mobikart/assets/hpGroceryThumb.png",
                 "prodNameInfo": {
                     "brand": "Nestle",
                     "productName": "Maggi Masala Instant Noodles Vegetarian"
@@ -349,7 +349,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpGroceryThumb.png",
+                "productImage": "/mobikart/assets/hpGroceryThumb.png",
                 "prodNameInfo": {
                     "brand": "MTR",
                     "productName": "Vermicelli 850 g"
@@ -362,7 +362,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpGroceryThumb.png",
+                "productImage": "/mobikart/assets/hpGroceryThumb.png",
                 "prodNameInfo": {
                     "brand": "TATA",
                     "productName": "Grand Filter Coffee"
@@ -375,7 +375,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpGroceryThumb.png",
+                "productImage": "/mobikart/assets/hpGroceryThumb.png",
                 "prodNameInfo": {
                     "brand": "Britannia",
                     "productName": "Pure Magic Chocolush"
@@ -388,7 +388,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpGroceryThumb.png",
+                "productImage": "/mobikart/assets/hpGroceryThumb.png",
                 "prodNameInfo": {
                     "brand": "Vim",
                     "productName": "Vim Dishwash Bar"
@@ -403,7 +403,7 @@
         ],
         "furniture": [
             {
-                "productImage": "/assets/hpFurniThumb.png",
+                "productImage": "/mobikart/assets/hpFurniThumb.png",
                 "prodNameInfo": {
                     "brand": "Adidas",
                     "productName": "Blue full arm Shirt Blue full arm Shirt Blue full arm Shirt"
@@ -416,7 +416,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpFurniThumb.png",
+                "productImage": "/mobikart/assets/hpFurniThumb.png",
                 "prodNameInfo": {
                     "brand": "Levis",
                     "productName": "Jeans pant blue"
@@ -429,7 +429,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpFurniThumb.png",
+                "productImage": "/mobikart/assets/hpFurniThumb.png",
                 "prodNameInfo": {
                     "brand": "Puma",
                     "productName": "Shoe white"
@@ -442,7 +442,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpFurniThumb.png",
+                "productImage": "/mobikart/assets/hpFurniThumb.png",
                 "prodNameInfo": {
                     "brand": "Reebok",
                     "productName": "Black Jacket"
@@ -455,7 +455,7 @@
                 }
             },
             {
-                "productImage": "/assets/hpFurniThumb.png",
+                "productImage": "/mobikart/assets/hpFurniThumb.png",
                 "prodNameInfo": {
                     "brand": "HRX",
                     "productName": "T shirt gray"

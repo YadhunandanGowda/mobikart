@@ -1,37 +1,37 @@
 [
     {
         "categoryName": "Men's Ware",
-        "Thumbnail": "/assets/hpMenThumb.png",
+        "Thumbnail": "/mobikart/assets/hpMenThumb.png",
         "urlParam" : "men"
     },
     {
         "categoryName": "Women's Ware",
-        "Thumbnail": "/assets/hpWomenThumb.png",
+        "Thumbnail": "/mobikart/assets/hpWomenThumb.png",
         "urlParam" : "women"
     },
     {
         "categoryName": "Kid's Ware",
-        "Thumbnail": "/assets/hpKidsThumb.png",
+        "Thumbnail": "/mobikart/assets/hpKidsThumb.png",
         "urlParam" : "kid"
     },
     {
         "categoryName": "Electronics",
-        "Thumbnail": "/assets/hpElectronicsThumb.png",
+        "Thumbnail": "/mobikart/assets/hpElectronicsThumb.png",
         "urlParam" : "electronics"
     },
     {
         "categoryName": "Home Appliances",
-        "Thumbnail": "/assets/hpHomeThumb.png",
+        "Thumbnail": "/mobikart/assets/hpHomeThumb.png",
         "urlParam" : "homeapp"
     },
     {
         "categoryName": "Grocery",
-        "Thumbnail": "/assets/hpGroceryThumb.png",
+        "Thumbnail": "/mobikart/assets/hpGroceryThumb.png",
         "urlParam" : "grocery"
     },
     {
         "categoryName": "Furniture",
-        "Thumbnail": "/assets/hpFurniThumb.png",
+        "Thumbnail": "/mobikart/assets/hpFurniThumb.png",
         "urlParam" : "furniture"
     }
 ]
