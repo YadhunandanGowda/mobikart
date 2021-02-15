@@ -1,6 +1,7 @@
     {
         "men": [
             {
+                "productID":1,
                 "productImage": "/mobikart/assets/hpMenThumb.png",
                 "prodNameInfo": {
                     "brand": "Adidas",
@@ -14,6 +15,7 @@
                 }
             },
             {
+                "productID":2,
                 "productImage": "/mobikart/assets/hpMenThumb.png",
                 "prodNameInfo": {
                     "brand": "Levis",
@@ -27,6 +29,7 @@
                 }
             },
             {
+                "productID":3,
                 "productImage": "/mobikart/assets/hpMenThumb.png",
                 "prodNameInfo": {
                     "brand": "Puma",
@@ -40,6 +43,7 @@
                 }
             },
             {
+                "productID":4,
                 "productImage": "/mobikart/assets/hpMenThumb.png",
                 "prodNameInfo": {
                     "brand": "Reebok",
@@ -53,6 +57,7 @@
                 }
             },
             {
+                "productID":5,
                 "productImage": "/mobikart/assets/hpMenThumb.png",
                 "prodNameInfo": {
                     "brand": "HRX",
@@ -68,6 +73,7 @@
         ],
         "women": [
             {
+                "productID":1,
                 "productImage": "/mobikart/assets/hpWomenThumb.png",
                 "prodNameInfo": {
                     "brand": "Adidas",
@@ -81,6 +87,7 @@
                 }
             },
             {
+                "productID":2,
                 "productImage": "/mobikart/assets/hpWomenThumb.png",
                 "prodNameInfo": {
                     "brand": "Levis",
@@ -94,6 +101,7 @@
                 }
             },
             {
+                "productID":3,
                 "productImage": "/mobikart/assets/hpWomenThumb.png",
                 "prodNameInfo": {
                     "brand": "Puma",
@@ -107,6 +115,7 @@
                 }
             },
             {
+                "productID":4,
                 "productImage": "/mobikart/assets/hpWomenThumb.png",
                 "prodNameInfo": {
                     "brand": "Reebok",
@@ -120,6 +129,7 @@
                 }
             },
             {
+                "productID":5,
                 "productImage": "/mobikart/assets/hpWomenThumb.png",
                 "prodNameInfo": {
                     "brand": "HRX",
@@ -135,6 +145,7 @@
         ],
         "kid": [
             {
+                "productID":1,
                 "productImage": "/mobikart/assets/hpKidsThumb.png",
                 "prodNameInfo": {
                     "brand": "Adidas",
@@ -148,6 +159,7 @@
                 }
             },
             {
+                "productID":2,
                 "productImage": "/mobikart/assets/hpKidsThumb.png",
                 "prodNameInfo": {
                     "brand": "Levis",
@@ -161,6 +173,7 @@
                 }
             },
             {
+                "productID":3,
                 "productImage": "/mobikart/assets/hpKidsThumb.png",
                 "prodNameInfo": {
                     "brand": "Puma",
@@ -174,6 +187,7 @@
                 }
             },
             {
+                "productID":4,
                 "productImage": "/mobikart/assets/hpKidsThumb.png",
                 "prodNameInfo": {
                     "brand": "Reebok",
@@ -187,6 +201,7 @@
                 }
             },
             {
+                "productID":5,
                 "productImage": "/mobikart/assets/hpKidsThumb.png",
                 "prodNameInfo": {
                     "brand": "HRX",
@@ -202,6 +217,7 @@
         ],
         "electronics": [
             {
+                "productID":1,
                 "productImage": "/mobikart/assets/hpElectronicsThumb.png",
                 "prodNameInfo": {
                     "brand": "Samsung",
@@ -215,6 +231,7 @@
                 }
             },
             {
+                "productID":2,
                 "productImage": "/mobikart/assets/hpElectronicsThumb.png",
                 "prodNameInfo": {
                     "brand": "Dell",
@@ -228,6 +245,7 @@
                 }
             },
             {
+                "productID":3,
                 "productImage": "/mobikart/assets/hpElectronicsThumb.png",
                 "prodNameInfo": {
                     "brand": "Sony",
@@ -241,6 +259,7 @@
                 }
             },
             {
+                "productID":4,
                 "productImage": "/mobikart/assets/hpElectronicsThumb.png",
                 "prodNameInfo": {
                     "brand": "Philips",
@@ -254,6 +273,7 @@
                 }
             },
             {
+                "productID":5,
                 "productImage": "/mobikart/assets/hpElectronicsThumb.png",
                 "prodNameInfo": {
                     "brand": "LG",
@@ -269,6 +289,7 @@
         ],
         "homeapp": [
             {
+                "productID":1,
                 "productImage": "/mobikart/assets/hpHomeThumb.png",
                 "prodNameInfo": {
                     "brand": "Samsung",
@@ -282,6 +303,7 @@
                 }
             },
             {
+                "productID":2,
                 "productImage": "/mobikart/assets/hpHomeThumb.png",
                 "prodNameInfo": {
                     "brand": "Sony",
@@ -295,6 +317,7 @@
                 }
             },
             {
+                "productID":3,
                 "productImage": "/mobikart/assets/hpHomeThumb.png",
                 "prodNameInfo": {
                     "brand": "LG",
@@ -308,6 +331,7 @@
                 }
             },
             {
+                "productID":4,
                 "productImage": "/mobikart/assets/hpHomeThumb.png",
                 "prodNameInfo": {
                     "brand": "Usha",
@@ -321,6 +345,7 @@
                 }
             },
             {
+                "productID":5,
                 "productImage": "/mobikart/assets/hpHomeThumb.png",
                 "prodNameInfo": {
                     "brand": "Blue star",
@@ -336,6 +361,7 @@
         ],
         "grocery": [
             {
+                "productID":1,
                 "productImage": "/mobikart/assets/hpGroceryThumb.png",
                 "prodNameInfo": {
                     "brand": "Nestle",
@@ -349,6 +375,7 @@
                 }
             },
             {
+                "productID":2,
                 "productImage": "/mobikart/assets/hpGroceryThumb.png",
                 "prodNameInfo": {
                     "brand": "MTR",
@@ -362,6 +389,7 @@
                 }
             },
             {
+                "productID":3,
                 "productImage": "/mobikart/assets/hpGroceryThumb.png",
                 "prodNameInfo": {
                     "brand": "TATA",
@@ -375,6 +403,7 @@
                 }
             },
             {
+                "productID":4,
                 "productImage": "/mobikart/assets/hpGroceryThumb.png",
                 "prodNameInfo": {
                     "brand": "Britannia",
@@ -388,6 +417,7 @@
                 }
             },
             {
+                "productID":5,
                 "productImage": "/mobikart/assets/hpGroceryThumb.png",
                 "prodNameInfo": {
                     "brand": "Vim",
@@ -403,6 +433,7 @@
         ],
         "furniture": [
             {
+                "productID":1,
                 "productImage": "/mobikart/assets/hpFurniThumb.png",
                 "prodNameInfo": {
                     "brand": "Adidas",
@@ -416,6 +447,7 @@
                 }
             },
             {
+                "productID":2,
                 "productImage": "/mobikart/assets/hpFurniThumb.png",
                 "prodNameInfo": {
                     "brand": "Levis",
@@ -429,6 +461,7 @@
                 }
             },
             {
+                "productID":3,
                 "productImage": "/mobikart/assets/hpFurniThumb.png",
                 "prodNameInfo": {
                     "brand": "Puma",
@@ -442,6 +475,7 @@
                 }
             },
             {
+                "productID":4,
                 "productImage": "/mobikart/assets/hpFurniThumb.png",
                 "prodNameInfo": {
                     "brand": "Reebok",
@@ -455,6 +489,7 @@
                 }
             },
             {
+                "productID":5,
                 "productImage": "/mobikart/assets/hpFurniThumb.png",
                 "prodNameInfo": {
                     "brand": "HRX",
